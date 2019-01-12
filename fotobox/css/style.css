@@ -1,0 +1,329 @@
+﻿#block-body{
+    width: 1035px;
+    height: auto;
+    margin: 0 auto;
+}
+#block-header{
+    width: 1035px;
+    height: 230px;
+}
+
+#block-right {
+    width: 230px;
+    height: auto;
+    float: right;
+}
+#block-content {
+    width: 800px;
+    height: auto;
+    font: sans-serif;
+}
+#block-info {
+    width: 1035px;
+    height: 30px;
+}
+
+#block-footor {
+    width: 1035px;
+    height: 100px;
+}
+
+#info-menu li {
+    font: 15px  sans-serif;
+    color: #407000;
+    float: left;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    list-style-type: none;
+}
+
+#info-menu a {
+    font: 15px sans-serif;
+    color: #4A4A4A;
+    text-decoration: none;
+}
+#info-menu a:hover {
+    color: #000000;
+}
+
+#loin-reg {
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;
+}
+
+#loin-reg a {
+    font: 15px sans-serif;
+    color: #4A4A4A;
+    text-decoration: none;
+    padding-left: 8px ;
+    padding-right: 10px;
+}
+
+#loin-reg a:hover{
+    color: #000000;
+}
+#logo-img {
+    margin-top: 5px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+#block-title {
+    font: 44px sans-serif;
+    color: #407000;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    margin-left: 500px;
+    padding-bottom: 2px;
+}
+
+#block-title p{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+#block-cat{
+    width: 230px;
+    height: auto;
+
+}
+ 
+.cat{
+    color: #6C6C6C;
+    width: 150px;
+    font: 22px sans-serif;
+    margin-top: 0px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background: url(../imges/grad.png);
+    border-radius: 5px;
+    text-align: center;
+} 
+
+#list li {
+    list-style-type: none;
+    padding-right: 20px ;
+    padding-left: 2px ;
+}
+
+#list a{
+    font: 17px sans-serif;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 18px ;
+    list-style-type: none;
+    padding-right: 10px ;
+    display: block ;
+    text-decoration: none;
+    color: #4A4A4A;
+}
+
+#list a:hover{
+    background-color: #b0c7a6;
+    color: #000000;
+}
+
+#block-prod > li{
+    width: 760px;
+    font: 17px sans-serif;
+    list-style-type: none;
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
+
+.drow-name{
+    margin-top: 29px;
+    margin-bottom: 5px;
+}
+
+.drow-name a{
+    font: bold 17px sans-serif;
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+
+.drow-name a:hover{
+    color:#E4E4E4; 
+ }   
+  
+.drow{
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+}  
+
+.dr-ow{
+        
+}
+
+.drow-view{
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 10px;
+    font: 14px sans-serif;
+    margin: inherit;
+}
+.drow-price{
+    margin-left: 15px;
+}
+
+#view-content-img{
+    width: 800px;
+    height: 200px;
+}
+
+#name{
+    font: 20px bold sans-serif;
+    text-align : center;
+}
+
+#drow-view-view{
+    text-align : justify;
+    font: 14px sans-serif;
+    padding-left: 14px;
+    margin-left: 20px;
+    margin-right: 15px;
+    margin-top: 10px;
+    text-indent: 25px;
+}
+
+#price{
+    padding-top: 20px;
+    padding-left: 15px;
+    font: 17px sans-serif;
+    color: #407000;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+
+#price a {
+    margin-left: 180px;
+    font: 22px sans-serif;
+    color: green;
+    width: 400px;
+    background: #b0c7a6;
+    text-decoration: none;
+    margin-top: 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+}
+
+#price a:hover {
+    font: 22px sans-serif;
+    color: #fbceb1;
+    width: 400px;
+    background: red;
+    text-decoration: none;
+    margin-top: 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    }
+.dro-w{
+    margin-right: 10px;
+     width: 215px;
+     float: left;
+}
+
+#drow-vie-w{
+    width: 335px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+#block-content-w p {
+    font: 40px sans-serif;
+    text-align: center;
+    color: #FFCA7E;
+    
+}
+
+#form_del{
+    list-style-type: none;
+    font: 15px sans-serif;
+    margin-top: 30px;
+}
+
+#form_del li{
+    margin-top: 30px;
+}
+
+#form_del > li>input{
+    width: 300px;
+    height: 25px;
+    margin-left: 200px;
+    font: 15px sans-serif;
+    padding-left: 5px;
+}
+
+#form_del >li>label{
+    position: absolute;
+    margin-top: 5px;
+}
+
+#end{
+    font: 30px sans-serif;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #4A4A4A;
+}
+#end-w{
+    float: left;
+}
+
+#back {
+    font: 15px sans-serif;
+    color: #4A4A4A;
+    width: 400px;
+    background: #C1C1C1;
+    text-decoration: none;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 5px;
+    margin-left: 450px;
+}
+
+#back:hover{
+    font: 15px sans-serif;
+    color: #4A4A4A;
+    width: 400px;
+    background: #939393;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 5px;
+}
+
+#finish_button{
+    font: 25px sans-serif;
+    background: #6C6C6C;
+     border-radius: 9px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     margin-right: 50px;
+}
+
+#pp{
+    font: 17px sans-serif;
+}
